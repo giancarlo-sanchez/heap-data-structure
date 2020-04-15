@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Heaps Project
 
 This project contains a skeleton for you to implement a max heap. This is a
@@ -19,3 +20,6 @@ Keep making the top-most test pass until all tests pass.
   * **lib/is_heap.js** to implement the `isMaxHeap` function
   * **lib/leet_code_215.js** to implement the `findKthLargest` function located
     at https://leetcode.com/problems/kth-largest-element-in-an-array/
+=======
+# heap-data-structure
+>>>>>>> 975f72280a399f857a7407ab65fd8a22333cf305
